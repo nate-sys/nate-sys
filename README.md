@@ -1,4 +1,4 @@
 ### Hi there 👋
-I'm Nathan, your average front-end enthusiast.  
+I do web things 
   
-[nate-sys.github.io](https://nate-sys.github.io)
+Folio here 👉[nate-sys.github.io](https://nate-sys.github.io)
